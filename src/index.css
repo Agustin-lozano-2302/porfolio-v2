@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "tailwindcss-animated";
+
+
+*{
+  font-family: "Unbounded", sans-serif;
+}
+
