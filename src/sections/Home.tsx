@@ -10,7 +10,7 @@ function Home() {
     <section className='px-4 sm:px-8 md:px-[60px] bg-black min-h-screen overflow-hidden'>
       <div className='animate-fade animate-duration-[2000ms]'>
         <Header />
-        <section className='bg-black flex justify-center items-center min-h-[80vh] py-8'>
+        <section className='bg-black flex justify-center items-center min-h-[68vh] md:min-h-[80vh] py-8'>
           <div className='text-white font-light flex-col flex gap-8 md:gap-18 justify-center items-center'>
             <div className='flex flex-col justify-center items-center text-center'>
               <p className='text-2xl sm:text-3xl md:text-4xl'>{t('home.greeting')}</p>
