@@ -59,7 +59,8 @@ i18n
           },
           contact: {
             title: "Contact",
-            copyright: "Copyright © {{year}} Agustín Lozano. All Rights Reserved."
+            copyright: "Copyright © {{year}} Agustín Lozano. All Rights Reserved.",
+            downloadCV: "Download CV"
           },
           nav: {
             home: "Home",
@@ -122,7 +123,8 @@ i18n
           },
           contact: {
             title: "Contacto",
-            copyright: "Derechos de autor © {{year}} Agustín Lozano. Todos los derechos reservados."
+            copyright: "Derechos de autor © {{year}} Agustín Lozano. Todos los derechos reservados.",
+            downloadCV: "Descargar CV"
           },
           nav: {
             home: "Inicio",
