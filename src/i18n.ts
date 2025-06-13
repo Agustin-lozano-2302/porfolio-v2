@@ -55,7 +55,8 @@ i18n
             swap: {
               title: "Swap part landing page",
               description: "Landing page for a parts company. Built with performance and SEO in mind. Includes responsive design and smooth animations."
-            }
+            },
+            viewProject: "View project"
           },
           contact: {
             title: "Contact",
@@ -119,7 +120,8 @@ i18n
             swap: {
               title: "Landing page de Swap part",
               description: "Landing page para una empresa de repuestos. Construida pensando en rendimiento y SEO. Incluye diseño responsivo y animaciones suaves."
-            }
+            },
+            viewProject: "Ver proyecto"
           },
           contact: {
             title: "Contacto",
